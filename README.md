@@ -1,17 +1,44 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/Qushl" target="_blank">Roman</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-<!--
-**Qushl/Qushl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👨‍💻  Hi there, I'm Roman 👋 
+### Beginner developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
+
+## 🚀 About me
+Hi! I am a beginner programmer who is actively learning and trying myself in different areas of development. I like to learn new technologies, programming languages ​​and frameworks.
+
+- 🌱I'm studying now: **JavaScript, Python, Web-разработку**
+- 🎯 Goals: Become a full-fledged developer and create useful applications
+- ⚡ Fact: I love solving complex problems and am constantly learning new things.
+
+## 🛠 Technologies and tools
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 📫 Contacts
+
+- 📧 **Email:** vipioyt@mail.ru
+- 💼 **Telegram:** @romanshveto
+- 🐙 **GitHub:** https://github.com/Qushl
+
+---
+
+<div align="center">
+
+⭐️ Thank you for visiting my profile! I will be glad to cooperate
+
+</div>
