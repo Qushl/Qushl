@@ -9,7 +9,7 @@
 ## 🚀 About me
 Hi! I am a beginner programmer who is actively learning and trying myself in different areas of development. I like to learn new technologies, programming languages ​​and frameworks.
 
-- 🌱I'm studying now: **JavaScript, Python, Web-разработку**
+- 🌱I'm studying now: **JavaScript, Python, Web-development**
 - 🎯 Goals: Become a full-fledged developer and create useful applications
 - ⚡ Fact: I love solving complex problems and am constantly learning new things.
 
