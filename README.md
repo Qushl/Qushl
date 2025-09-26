@@ -10,12 +10,20 @@
 Привет! Я начинающий программист, который активно обучается и пробует себя в разных областях разработки. Мне нравится изучать новые технологии, языки программирования и фреймворки.
 
 Hi! I am a beginner programmer who is actively learning and trying myself in different areas of development. I like to learn new technologies, programming languages ​​and frameworks.
+   
+### 🌱 Study / Обучение
+**EN:** JavaScript, Python, Web Development  
+**RU:** JavaScript, Python, Веб-разработку
 
-- 🌱I'm studying now: **JavaScript, Python, Web-development**
-- 🎯 Goals: Become a full-fledged developer and create useful applications
-- ⚡ Fact: I love solving complex problems and am constantly learning new things.
+### 🎯 Goals / Цели  
+**EN:** Full-stack developer & useful applications  
+**RU:** Full-stack разработчик & полезные приложения
 
-## 🛠 Technologies and tools
+### ⚡ Passion / Увлечения  
+**EN:** Complex problem solving & continuous learning  
+**RU:** Решение сложных задач & постоянное обучение
+
+## 🎨 Мои навыки
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,17 +34,17 @@ Hi! I am a beginner programmer who is actively learning and trying myself in dif
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
-## 📈 GitHub Statistics
+## 🌐 Расписание на неделю
 
-## Расписание на неделю
 | День недели | Занятие |
-|---------------|-----------------------------|
-| Понедельник | Архитектура ЭВМ / Веб разработка |
-| Вторник | Программирование на C#|
-| Среда | Иностранный язык / ОРГ |
-| Четверг | Математика |
-| Пятница | Информационные технологии и сервисы |
+|-------------|---------|
+| Понедельник | ![EV](https://img.shields.io/badge/Архитектура_ЭВМ-007ACC) ![Web](https://img.shields.io/badge/Веб_разработка-00D100) |
+| Вторник | ![C#](https://img.shields.io/badge/C%23-239120) |
+| Среда | ![Lang](https://img.shields.io/badge/Иностранный_язык-FF6B00) ![ORG](https://img.shields.io/badge/ОРГ-8B00FF) |
+| Четверг | ![Math](https://img.shields.io/badge/Математика-D10000) |
+| Пятница | ![IT](https://img.shields.io/badge/ИТ_сервисы-00A0D1) |
 
+## 📈 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qushl&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qushl&layout=compact&theme=radical)
