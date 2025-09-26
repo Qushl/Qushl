@@ -51,6 +51,25 @@ Hi! I am a beginner programmer who is actively learning and trying myself in dif
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qushl&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qushl&layout=compact&theme=radical)
+## Пример кода на JavaScript
+```javascript
+// Таймер обратного отсчета
+function countdown(seconds) {
+    let timer = seconds;
+    
+    const interval = setInterval(() => {
+        console.log(`Осталось: ${timer} сек.`);
+        timer--;
+        
+        if (timer < 0) {
+            clearInterval(interval);
+            console.log("⏰ Время вышло!");
+        }
+    }, 1000);
+}
+
+countdown(5); // Запуск таймера на 5 секунд
+```
 
 ## 📫 Contacts
 
