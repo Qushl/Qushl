@@ -53,22 +53,19 @@ Hi! I am a beginner programmer who is actively learning and trying myself in dif
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qushl&layout=compact&theme=radical)
 ## Пример кода на JavaScript
 ```javascript
-// Таймер обратного отсчета
-function countdown(seconds) {
-    let timer = seconds;
-    
-    const interval = setInterval(() => {
-        console.log(`Осталось: ${timer} сек.`);
-        timer--;
-        
-        if (timer < 0) {
-            clearInterval(interval);
-            console.log("⏰ Время вышло!");
-        }
-    }, 1000);
+// Красивое форматирование даты
+function formatDate(date) {
+    const options = { 
+        year: 'numeric', 
+        month: 'long', 
+        day: 'numeric' 
+    };
+    return date.toLocaleDateString('ru-RU', options);
 }
 
-countdown(5); // Запуск таймера на 5 секунд
+const today = new Date();
+console.log(`Сегодня: ${formatDate(today)}`);
+// Пример: "Сегодня: 26 сентября 2024 г."
 ```
 
 ## 📫 Contacts
