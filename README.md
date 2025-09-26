@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👨‍💻  Hi there, I'm Roman 👋 
-### Beginner developer
+# 👨‍💻  Hi there, I'm Roman Shvetsov 👋 
+### Beginner developer / Начинающий разработчик
 
 
 </div>
@@ -29,12 +29,16 @@ Hi! I am a beginner programmer who is actively learning and trying myself in dif
 
 ## 🎨 Мои навыки
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+1. **Программирование**
+   - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+   - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+   - ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+   - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+2. **🎹 Игра на фортепианно**
+3. **⛷️ Катание на горных лыжах**
+4. **🏴󠁧󠁢󠁥󠁮󠁧󠁿 Базовый Английский**
 
 
 ## 🌐 Расписание на неделю
