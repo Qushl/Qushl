@@ -7,6 +7,8 @@
 </div>
 
 ## 🚀 About me
+Привет! Я начинающий программист, который активно обучается и пробует себя в разных областях разработки. Мне нравится изучать новые технологии, языки программирования и фреймворки.
+
 Hi! I am a beginner programmer who is actively learning and trying myself in different areas of development. I like to learn new technologies, programming languages ​​and frameworks.
 
 - 🌱I'm studying now: **JavaScript, Python, Web-development**
@@ -25,6 +27,15 @@ Hi! I am a beginner programmer who is actively learning and trying myself in dif
 
 
 ## 📈 GitHub Statistics
+
+## Расписание на неделю
+| День недели | Занятие |
+|---------------|-----------------------------|
+| Понедельник | Архитектура ЭВМ / Веб разработка |
+| Вторник | Программирование на C#|
+| Среда | Иностранный язык / ОРГ |
+| Четверг | Математика |
+| Пятница | Информационные технологии и сервисы |
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qushl&show_icons=true&theme=radical)
 
