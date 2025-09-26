@@ -27,29 +27,13 @@ Hi! I am a beginner programmer who is actively learning and trying myself in dif
 - 📚 Чтение научной фантастики
 - ✈️ Поездки в новые места
 
-## 🎨 Мои навыки
-
-1. **Программирование**
-   - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-   - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-   - ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-   - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-2. **🎹 Игра на фортепианно**
-3. **⛷️ Катание на горных лыжах**
-4. **🏴󠁧󠁢󠁥󠁮󠁧󠁿 Базовый Английский**
-
-
-## 🌐 Расписание на неделю
-
-| День недели | Занятие |
-|-------------|---------|
-| Понедельник | ![EV](https://img.shields.io/badge/Архитектура_ЭВМ-007ACC) ![Web](https://img.shields.io/badge/Веб_разработка-00D100) |
-| Вторник | ![C#](https://img.shields.io/badge/C%23-239120) |
-| Среда | ![Lang](https://img.shields.io/badge/Иностранный_язык-FF6B00) ![ORG](https://img.shields.io/badge/ОРГ-8B00FF) |
-| Четверг | ![Math](https://img.shields.io/badge/Математика-D10000) |
-| Пятница | ![IT](https://img.shields.io/badge/ИТ_сервисы-00A0D1) |
+## 🎨 My skills / Мои навыки
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 📈 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qushl&show_icons=true&theme=radical)
