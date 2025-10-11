@@ -66,6 +66,6 @@ console.log(`Сегодня: ${formatDate(today)}`);
 
 <div align="center">
 
-⭐️ Thank you for visiting my profile! I will be glad to cooperate
+⭐️ Thank you for visiting my profile!  I will be glad to cooperate
 
 </div>
