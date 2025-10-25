@@ -9,6 +9,7 @@
 ## 🚀 About me
 Привет! Я начинающий программист, который активно обучается и пробует себя в разных областях разработки. Мне нравится изучать новые технологии, языки программирования и фреймворки.
 
+
 Hi! I am a beginner programmer who is actively learning and trying myself in different areas of development. I like to learn new technologies, programming languages ​​and frameworks.
    
 ### 🌱 Study / Обучение
