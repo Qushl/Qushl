@@ -15,7 +15,6 @@
 Hi! I am a beginner programmer who is actively learning and trying myself in different areas of development. I like to learn new technologies, programming languages ​​and frameworks.
 
 
-
    
 ### 🌱 Study / Обучение
 **EN:** JavaScript, Python, Web Development  
