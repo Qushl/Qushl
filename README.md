@@ -27,9 +27,6 @@ Hi! I am a beginner programmer who is actively learning and trying myself in dif
 ### ⚡ Interests / Интересы
 
 - 🐍 Программирование на Python / С#
-- ⛷️ Катание на беговых лыжах
-- 🎹 Игра на фортепиано
-- 📚 Чтение научной фантастики
 - ✈️ Поездки в новые места
 
 
